@@ -10,7 +10,7 @@
 
 ---------------
 
-### Day 1: June 27, Monday
+### Day 1: 23.10.23, Monday
 
 **Today's Progress**: Continued refactoring allotments project to TS.
 
@@ -18,3 +18,16 @@
 
 **Link(s) to work**
 1. [Commit](https://github.com/oguru/allotments/commit/8996089d3223fbe509986145b0b86d7a64f80839)
+
+**Time**: 4 hours
+
+### Day 2: 24.10.23
+
+**Today's Progress**: Read a bit on some more indepth React. Refactored part of ghost-messenger project to use ref callback with useCallback. Found tests broken and looked into fixing.
+
+**Thoughts**: Feeling down today, was made even more difficult by trying unsuccessfully for hours to fix a test that should have just worked. Made a post on Reddit.
+
+**Time**: 2.5 hours
+
+**Link(s) to work**
+1. [Reddit Post](https://www.reddit.com/r/reactjs/comments/17ffvzj/react_test_component_not_updating_and_showing/)
