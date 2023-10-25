@@ -29,5 +29,13 @@
 
 **Time**: 2.5 hours
 
+### Day 2: 25.10.23
+
+**Today's Progress**: Did a 90 minute tech test, continued working on fixing tests on ghost-messenger.
+
+**Thoughts**: Tech test was incredibly difficult and on class-based React, but I did better than expected. Tests gave me a lot of trouble too, but managed to make progress.
+
+**Time**: 6 hours
+
 **Link(s) to work**
 1. [Reddit Post](https://www.reddit.com/r/reactjs/comments/17ffvzj/react_test_component_not_updating_and_showing/)
