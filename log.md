@@ -29,7 +29,10 @@
 
 **Time**: 2.5 hours
 
-### Day 2: 25.10.23
+**Link(s) to work**
+1. [Reddit Post](https://www.reddit.com/r/reactjs/comments/17ffvzj/react_test_component_not_updating_and_showing/)
+
+### Day 3: 25.10.23
 
 **Today's Progress**: Did a 90 minute tech test, continued working on fixing tests on ghost-messenger.
 
@@ -37,5 +40,12 @@
 
 **Time**: 6 hours
 
-**Link(s) to work**
-1. [Reddit Post](https://www.reddit.com/r/reactjs/comments/17ffvzj/react_test_component_not_updating_and_showing/)
+### Day 4: 26.10.23
+
+**Today's Progress**: Continued working on fixing tests on ghost-messenger.
+
+**Thoughts**: Managed to make more progress on testing.
+
+**Time**: 4 hours
+
+
