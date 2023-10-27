@@ -48,4 +48,10 @@
 
 **Time**: 4 hours
 
+### Day 5: 27.10.23
 
+**Today's Progress**: Continued working on fixing tests on ghost-messenger and trying to add speech-recognition tests.
+
+**Thoughts**: Having difficulty with mocking and spying parts of the package.
+
+**Time**: 2.5 hours
