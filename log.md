@@ -55,3 +55,11 @@
 **Thoughts**: Having difficulty with mocking and spying parts of the package.
 
 **Time**: 2.5 hours
+
+### Day 6: 28.10.23
+
+**Today's Progress**: Busy day and went out so didn't do anything today.
+
+**Thoughts**:
+
+**Time**: 0
