@@ -63,3 +63,11 @@
 **Thoughts**:
 
 **Time**: 0
+
+### Day 6: 29.10.23
+
+**Today's Progress**: Continued trying to add speech-recognition tests and fixing types in test file. Started learning Next.js
+
+**Thoughts**: Hungover and very tired, was difficult but I pushed through.
+
+**Time**: 1 hour
