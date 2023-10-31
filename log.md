@@ -71,3 +71,17 @@
 **Thoughts**: Hungover and very tired, was difficult but I pushed through.
 
 **Time**: 1 hour
+
+### Day 7: 30.10.23
+
+**Today's Progress**: Continued learning Next.js, tried to work out typescript errors
+
+**Thoughts**: Still very tired, didn't get much done. Will save the typescript and testing for when I have more energy
+
+**Time**: 2 hours
+
+### Day 8: 31.10.23
+
+**Today's Progress**: Read through React.js docs
+
+**Thoughts**: Started reading the docs from the start to maximise my learning
