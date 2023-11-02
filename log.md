@@ -85,3 +85,21 @@
 **Today's Progress**: Read through React.js docs
 
 **Thoughts**: Started reading the docs from the start to maximise my learning
+
+**Time**: 2 hours
+
+### Day 9: 01.10.23
+
+**Today's Progress**: Continued reading through React.js docs
+
+**Thoughts**: Was out all day but managed to get the hour done today which was good.
+
+**Time**: 1 hour
+
+### Day 10: 02.10.23
+
+**Today's Progress**: Continued learning Next.js
+
+**Thoughts**: Very tired and limited time so only did an hour, carried on building the started app
+
+**Time**: 1 hour
