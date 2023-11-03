@@ -103,3 +103,9 @@
 **Thoughts**: Very tired and limited time so only did an hour, carried on building the started app
 
 **Time**: 1 hour
+
+### Day 11: 03.10.23
+
+**Today's Progress**: Continued reading react docs
+
+**Time**: 1 hour 15
