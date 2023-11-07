@@ -125,3 +125,11 @@
 **Thoughts**: Did some planning for the productivity app, thinking about backend data structures and functions, as well as more React doc reading.
 
 **Time**: 1 hour
+
+### Day 14: 06.10.23
+
+**Today's Progress**: Day off
+
+**Thoughts**: Bit of a busy day with house and jobs stuff, didn't get the chance.
+
+**Time**: 0 hour
