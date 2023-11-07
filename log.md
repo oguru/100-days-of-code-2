@@ -117,3 +117,11 @@
 **Thoughts**: Learnt that a re-render in React is not a render in the traditional sense of the word, but of the virtual dom before the user sees any changes. When the page is actually updated and the user can see the change, it is a "commit".
 
 **Time**: 2 hour 30
+
+### Day 13: 05.10.23
+
+**Today's Progress**: Continued reading react docs, and planning some system architecture
+
+**Thoughts**: Did some planning for the productivity app, thinking about backend data structures and functions, as well as more React doc reading.
+
+**Time**: 1 hour
