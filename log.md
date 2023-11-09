@@ -133,3 +133,26 @@
 **Thoughts**: Bit of a busy day with house and jobs stuff, didn't get the chance.
 
 **Time**: 0 hour
+
+### Day 15: 07.10.23
+
+**Today's Progress**: Did a bit more on TypeScript tests on ghost-messenger and read more of the React docs.
+
+**Thoughts**: Struggled with the TS a bit but pushed on through.
+
+**Time**: 3 hours
+
+### Day 16: 08.10.23
+
+**Today's Progress**: Managed to make some good progress with ghost-messenger testing.
+
+**Thoughts**: Happy with the progress today, getting towards the end now.
+
+**Time**: 3 hours
+
+**Today's Progress**: Continued converting ghost-messenger tests.
+
+**Thoughts**: Getting closer to complete conversion.
+
+**Time**: 1 hour
+
