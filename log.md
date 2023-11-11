@@ -150,9 +150,19 @@
 
 **Time**: 3 hours
 
+### Day 17: 09.10.23
+
 **Today's Progress**: Continued converting ghost-messenger tests.
 
 **Thoughts**: Getting closer to complete conversion.
 
 **Time**: 1 hour
+
+### Day 18: 10.10.23
+
+**Today's Progress**: Continued converting ghost-messenger tests. Read a bit on React.
+
+**Thoughts**: Ran into some TypeScript trouble with testing again, will save it for when I have more energy as it has been a long day.
+
+**Time**: 1 hour 15
 
