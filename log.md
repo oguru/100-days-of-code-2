@@ -166,3 +166,27 @@
 
 **Time**: 1 hour 15
 
+### Day 19: 11.10.23
+
+**Today's Progress**: Continued converting ghost-messenger tests.
+
+**Thoughts**: Ran into some TypeScript trouble with testing again, will save it for when I have more energy as it has been a long day.
+
+**Time**: 1 hour
+
+### Day 20: 12.10.23
+
+**Today's Progress**: Continued converting ghost-messenger tests, read about TypeScript.
+
+**Thoughts**: Ran into some TypeScript trouble with testing again, bypassed a couple of type assertions with any to move on, will fix in the future when I have more experience.
+
+**Time**: 1 hour 25
+
+### Day 21: 13.10.23
+
+**Today's Progress**: Worked on tech test.
+
+**Thoughts**: Good progress, enjoyed building something different.
+
+**Time**: 5hr 15
+
