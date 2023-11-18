@@ -190,3 +190,42 @@
 
 **Time**: 5hr 15
 
+### Day 22: 14.10.23
+
+**Today's Progress**: Worked on tech test.
+
+**Thoughts**: Fleshed it out fully adding a better UI along with unit tests and a little extra functionality, really enjoyed it and it's a massive improvement on a similar app I build previously.
+
+**Time**: 12.5hrs
+
+### Day 23: 15.10.23
+
+**Today's Progress**: Did some reading on React.
+
+**Thoughts**:
+
+**Time**: 1 hour
+
+### Day 24: 16.10.23
+
+**Today's Progress**: Did some reading on React.
+
+**Thoughts**:
+
+**Time**: 1 hour
+
+### Day 25: 17.10.23
+
+**Today's Progress**: Didn't have time.
+
+**Thoughts**:
+
+**Time**: 0 hours
+
+### Day 25: 18.10.23
+
+**Today's Progress**: Read React docs, learnt about state being tied to dom structure rather than a specific component.
+
+**Thoughts**: Feels great
+
+**Time**: 1 hours
