@@ -134,7 +134,7 @@
 
 **Time**: 0 hour
 
-### Day 15: 07.10.23
+### Day 14: 07.10.23
 
 **Today's Progress**: Did a bit more on TypeScript tests on ghost-messenger and read more of the React docs.
 
@@ -142,7 +142,7 @@
 
 **Time**: 3 hours
 
-### Day 16: 08.10.23
+### Day 15: 08.10.23
 
 **Today's Progress**: Managed to make some good progress with ghost-messenger testing.
 
@@ -150,7 +150,7 @@
 
 **Time**: 3 hours
 
-### Day 17: 09.10.23
+### Day 16: 09.10.23
 
 **Today's Progress**: Continued converting ghost-messenger tests.
 
@@ -158,7 +158,7 @@
 
 **Time**: 1 hour
 
-### Day 18: 10.10.23
+### Day 17: 10.10.23
 
 **Today's Progress**: Continued converting ghost-messenger tests. Read a bit on React.
 
@@ -166,7 +166,7 @@
 
 **Time**: 1 hour 15
 
-### Day 19: 11.10.23
+### Day 18: 11.10.23
 
 **Today's Progress**: Continued converting ghost-messenger tests.
 
@@ -174,7 +174,7 @@
 
 **Time**: 1 hour
 
-### Day 20: 12.10.23
+### Day 19: 12.10.23
 
 **Today's Progress**: Continued converting ghost-messenger tests, read about TypeScript.
 
@@ -182,7 +182,7 @@
 
 **Time**: 1 hour 25
 
-### Day 21: 13.10.23
+### Day 20: 13.10.23
 
 **Today's Progress**: Worked on tech test.
 
@@ -190,7 +190,7 @@
 
 **Time**: 5hr 15
 
-### Day 22: 14.10.23
+### Day 21: 14.10.23
 
 **Today's Progress**: Worked on tech test.
 
@@ -198,7 +198,7 @@
 
 **Time**: 12.5hrs
 
-### Day 23: 15.10.23
+### Day 22: 15.10.23
 
 **Today's Progress**: Did some reading on React.
 
@@ -206,7 +206,7 @@
 
 **Time**: 1 hour
 
-### Day 24: 16.10.23
+### Day 23: 16.10.23
 
 **Today's Progress**: Did some reading on React.
 
@@ -214,7 +214,7 @@
 
 **Time**: 1 hour
 
-### Day 25: 17.10.23
+### Day 24: 17.10.23
 
 **Today's Progress**: Didn't have time.
 
@@ -227,5 +227,13 @@
 **Today's Progress**: Read React docs, learnt about state being tied to dom structure rather than a specific component.
 
 **Thoughts**: Feels great
+
+**Time**: 1 hours
+
+### Day 25: 19.10.23
+
+**Today's Progress**: Read React docs.
+
+**Thoughts**:
 
 **Time**: 1 hours
