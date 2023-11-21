@@ -237,3 +237,11 @@
 **Thoughts**:
 
 **Time**: 1 hours
+
+### Day 26: 20.10.23
+
+**Today's Progress**: Read React docs.
+
+**Thoughts**:
+
+**Time**: 1.5 hours
