@@ -245,3 +245,35 @@
 **Thoughts**:
 
 **Time**: 1.5 hours
+
+### Day 27: 21.10.23
+
+**Today's Progress**: Read React docs, did some codingame clashes.
+
+**Thoughts**:
+
+**Time**: 1 hour
+
+### Day 28: 22.10.23
+
+**Today's Progress**: Read React docs, did some codingame clashes, and thought about backend schema for productivity app. 
+
+**Thoughts**:
+
+**Time**: 2.5 hours
+
+### Day 29: 23.10.23
+
+**Today's Progress**: Read React docs, did some codingame clashes 
+
+**Thoughts**:
+
+**Time**: 1 hour
+
+### Day 30: 24.10.23
+
+**Today's Progress**: Did CSS for Giorgia's portfolio
+
+**Thoughts**:
+
+**Time**: 1.5 hours
