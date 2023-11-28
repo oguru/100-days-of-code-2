@@ -297,3 +297,11 @@
 **Thoughts**:
 
 **Time**: 1 hour
+
+### Day 33: 28.10.23
+
+**Today's Progress**: Read some Next.js docs
+
+**Thoughts**:
+
+**Time**: 2.5 hours
