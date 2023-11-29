@@ -285,3 +285,15 @@
 **Thoughts**:
 
 **Time**: 1.25 hours
+
+### Day 32: 26.10.23
+
+**Time**: 0 hours
+
+### Day 32: 27.10.23
+
+**Today's Progress**: Read some Next.js docs
+
+**Thoughts**:
+
+**Time**: 1 hour
