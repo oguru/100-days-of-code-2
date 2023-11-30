@@ -313,3 +313,11 @@
 **Thoughts**:
 
 **Time**: 1 hour
+
+### Day 35: 30.10.23
+
+**Today's Progress**: Read some Next.js docs, watched video on getStaticPaths fallback
+
+**Thoughts**:
+
+**Time**: 1 hour
