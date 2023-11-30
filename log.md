@@ -305,3 +305,11 @@
 **Thoughts**:
 
 **Time**: 2.5 hours
+
+### Day 34: 29.10.23
+
+**Today's Progress**: Read some Next.js docs, did some codingame clashes
+
+**Thoughts**:
+
+**Time**: 1 hour
