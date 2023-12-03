@@ -88,7 +88,7 @@
 
 **Time**: 2 hours
 
-### Day 9: 01.10.23
+### Day 9: 01.11.23
 
 **Today's Progress**: Continued reading through React.js docs
 
@@ -96,7 +96,7 @@
 
 **Time**: 1 hour
 
-### Day 10: 02.10.23
+### Day 10: 02.11.23
 
 **Today's Progress**: Continued learning Next.js
 
@@ -104,13 +104,13 @@
 
 **Time**: 1 hour
 
-### Day 11: 03.10.23
+### Day 11: 03.11.23
 
 **Today's Progress**: Continued reading react docs
 
 **Time**: 1 hour 15
 
-### Day 12: 04.10.23
+### Day 12: 04.11.23
 
 **Today's Progress**: Continued reading react docs
 
@@ -118,7 +118,7 @@
 
 **Time**: 2 hour 30
 
-### Day 13: 05.10.23
+### Day 13: 05.11.23
 
 **Today's Progress**: Continued reading react docs, and planning some system architecture
 
@@ -126,7 +126,7 @@
 
 **Time**: 1 hour
 
-### Day 14: 06.10.23
+### Day 14: 06.11.23
 
 **Today's Progress**: Day off
 
@@ -134,7 +134,7 @@
 
 **Time**: 0 hour
 
-### Day 14: 07.10.23
+### Day 14: 07.11.23
 
 **Today's Progress**: Did a bit more on TypeScript tests on ghost-messenger and read more of the React docs.
 
@@ -142,7 +142,7 @@
 
 **Time**: 3 hours
 
-### Day 15: 08.10.23
+### Day 15: 08.11.23
 
 **Today's Progress**: Managed to make some good progress with ghost-messenger testing.
 
@@ -150,7 +150,7 @@
 
 **Time**: 3 hours
 
-### Day 16: 09.10.23
+### Day 16: 09.11.23
 
 **Today's Progress**: Continued converting ghost-messenger tests.
 
@@ -158,7 +158,7 @@
 
 **Time**: 1 hour
 
-### Day 17: 10.10.23
+### Day 17: 10.11.23
 
 **Today's Progress**: Continued converting ghost-messenger tests. Read a bit on React.
 
@@ -166,7 +166,7 @@
 
 **Time**: 1 hour 15
 
-### Day 18: 11.10.23
+### Day 18: 11.11.23
 
 **Today's Progress**: Continued converting ghost-messenger tests.
 
@@ -174,7 +174,7 @@
 
 **Time**: 1 hour
 
-### Day 19: 12.10.23
+### Day 19: 12.11.23
 
 **Today's Progress**: Continued converting ghost-messenger tests, read about TypeScript.
 
@@ -182,7 +182,7 @@
 
 **Time**: 1 hour 25
 
-### Day 20: 13.10.23
+### Day 20: 13.11.23
 
 **Today's Progress**: Worked on tech test.
 
@@ -190,7 +190,7 @@
 
 **Time**: 5hr 15
 
-### Day 21: 14.10.23
+### Day 21: 14.11.23
 
 **Today's Progress**: Worked on tech test.
 
@@ -198,7 +198,7 @@
 
 **Time**: 12.5hrs
 
-### Day 22: 15.10.23
+### Day 22: 15.11.23
 
 **Today's Progress**: Did some reading on React.
 
@@ -206,7 +206,7 @@
 
 **Time**: 1 hour
 
-### Day 23: 16.10.23
+### Day 23: 16.11.23
 
 **Today's Progress**: Did some reading on React.
 
@@ -214,7 +214,7 @@
 
 **Time**: 1 hour
 
-### Day 24: 17.10.23
+### Day 24: 17.11.23
 
 **Today's Progress**: Didn't have time.
 
@@ -222,7 +222,7 @@
 
 **Time**: 0 hours
 
-### Day 25: 18.10.23
+### Day 25: 18.11.23
 
 **Today's Progress**: Read React docs, learnt about state being tied to dom structure rather than a specific component.
 
@@ -230,7 +230,7 @@
 
 **Time**: 1 hours
 
-### Day 25: 19.10.23
+### Day 25: 19.11.23
 
 **Today's Progress**: Read React docs.
 
@@ -238,7 +238,7 @@
 
 **Time**: 1 hours
 
-### Day 26: 20.10.23
+### Day 26: 20.11.23
 
 **Today's Progress**: Read React docs.
 
@@ -246,7 +246,7 @@
 
 **Time**: 1.5 hours
 
-### Day 27: 21.10.23
+### Day 27: 21.11.23
 
 **Today's Progress**: Read React docs, did some codingame clashes.
 
@@ -254,7 +254,7 @@
 
 **Time**: 1 hour
 
-### Day 28: 22.10.23
+### Day 28: 22.11.23
 
 **Today's Progress**: Read React docs, did some codingame clashes, and thought about backend schema for productivity app. 
 
@@ -262,7 +262,7 @@
 
 **Time**: 2.5 hours
 
-### Day 29: 23.10.23
+### Day 29: 23.11.23
 
 **Today's Progress**: Read React docs, did some codingame clashes 
 
@@ -270,7 +270,7 @@
 
 **Time**: 1 hour
 
-### Day 30: 24.10.23
+### Day 30: 24.11.23
 
 **Today's Progress**: Did CSS for Giorgia's portfolio
 
@@ -278,7 +278,7 @@
 
 **Time**: 1.5 hours
 
-### Day 31: 25.10.23
+### Day 31: 25.11.23
 
 **Today's Progress**: Read some Next.js docs, did 3 code clashes on codingame
 
@@ -286,11 +286,11 @@
 
 **Time**: 1.25 hours
 
-### Day 32: 26.10.23
+### Day 32: 26.11.23
 
 **Time**: 0 hours
 
-### Day 32: 27.10.23
+### Day 32: 27.11.23
 
 **Today's Progress**: Read some Next.js docs
 
@@ -298,7 +298,7 @@
 
 **Time**: 1 hour
 
-### Day 33: 28.10.23
+### Day 33: 28.11.23
 
 **Today's Progress**: Read some Next.js docs
 
@@ -306,7 +306,7 @@
 
 **Time**: 2.5 hours
 
-### Day 34: 29.10.23
+### Day 34: 29.11.23
 
 **Today's Progress**: Read some Next.js docs, did some codingame clashes
 
@@ -314,10 +314,22 @@
 
 **Time**: 1 hour
 
-### Day 35: 30.10.23
+### Day 35: 30.11.23
 
 **Today's Progress**: Read some Next.js docs, watched video on getStaticPaths fallback
 
 **Thoughts**:
 
 **Time**: 1 hour
+
+### Day 36: 01.12.23
+
+**Today's Progress**: Day off
+
+### Day 36: 02.12.23
+
+**Today's Progress**: Read on PWAs and comparison of app and page router in Next.js. Started to look at another course.
+
+**Thoughts**:
+
+**Time**: 1 hour 50
