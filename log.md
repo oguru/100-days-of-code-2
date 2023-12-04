@@ -337,3 +337,11 @@
 ### Day 37: 03.12.23
 
 **Today's Progress**: Day off
+
+### Day 37: 04.12.23
+
+**Today's Progress**: Next.js.
+
+**Thoughts**:
+
+**Time**: 1 hour
