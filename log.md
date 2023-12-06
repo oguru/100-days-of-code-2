@@ -345,3 +345,11 @@
 **Thoughts**:
 
 **Time**: 1 hour
+
+### Day 38: 05.12.23
+
+**Today's Progress**: Researched databases, continued with Next.js video tutorial.
+
+**Thoughts**:
+
+**Time**: 2 hour 45
