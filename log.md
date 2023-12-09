@@ -365,3 +365,12 @@
 **Thoughts**: Finally nice to start actually doing something
 
 **Time**: 1.5 hours
+
+### Day 40: 08.12.23
+
+**Today's Progress**: Did more of the video tutorial, watched some youtube stuff.
+
+**Thoughts**: 
+
+**Time**: 2 hours
+
