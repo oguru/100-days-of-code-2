@@ -353,3 +353,15 @@
 **Thoughts**:
 
 **Time**: 2 hour 45
+
+### Day 39: 06.12.23
+
+**Today's Progress**: Day off
+
+### Day 39: 07.12.23
+
+**Today's Progress**: Did a bit of the video tutorial, some basic styling on the app and started planning some of the backend schemas.
+
+**Thoughts**: Finally nice to start actually doing something
+
+**Time**: 1.5 hours
