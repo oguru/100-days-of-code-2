@@ -374,3 +374,22 @@
 
 **Time**: 2 hours
 
+### Day 41: 09.12.23
+
+**Today's Progress**: DB stuff.
+
+**Thoughts**: 
+
+**Time**: 1 hour
+
+### Day 42: 10.12.23
+
+**Today's Progress**: Day off
+
+### Day 42: 11.12.23
+
+**Today's Progress**: DB stuff.
+
+**Thoughts**:
+
+**Time**: 2 hours
