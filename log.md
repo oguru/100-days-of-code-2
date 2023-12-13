@@ -393,3 +393,19 @@
 **Thoughts**:
 
 **Time**: 2 hours
+
+### Day 43: 12.12.23
+
+**Today's Progress**: Not sure, odd day.
+
+**Thoughts**:
+
+**Time**: 1 hours
+
+### Day 44: 13.12.23
+
+**Today's Progress**: DB Videos and playing around.
+
+**Thoughts**:
+
+**Time**: 2 hours
