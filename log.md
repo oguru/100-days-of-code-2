@@ -409,3 +409,11 @@
 **Thoughts**:
 
 **Time**: 2 hours
+
+### Day 45: 14.12.23
+
+**Today's Progress**: DB Videos.
+
+**Thoughts**:
+
+**Time**: 1 hour
