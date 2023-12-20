@@ -425,3 +425,28 @@
 **Thoughts**:
 
 **Time**: 1 hour
+
+### Day 47: 16.12.23
+
+**Today's Progress**: DB Videos.
+
+**Thoughts**:
+
+**Time**: 2 hours
+
+### Day 48: 17.12.23
+
+**Today's Progress**: DB Videos.
+
+**Thoughts**:
+
+**Time**: 1 hour
+
+### Day 49: 18.12.23
+
+**Today's Progress**: Day off
+
+### Day 49: 19.12.23
+
+**Today's Progress**: Day off
+
